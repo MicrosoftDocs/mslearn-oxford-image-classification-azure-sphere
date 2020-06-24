@@ -1,4 +1,4 @@
-You need to the following libraries to run the notebook.
+You need to install the following libraries.
 
 - Numpy
 - Keras
