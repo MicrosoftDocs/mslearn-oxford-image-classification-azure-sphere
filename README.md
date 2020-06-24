@@ -23,17 +23,17 @@ Visual Studio Code installed in your computer
 Git installed in your computer
 Ability to use Git/Github
 
-Introduction - 5 min
-Design a image classification model on Azure Sphere - 5 min
-How to set up Azure Sphere - 5 min
-Exercise - Set up Azure Sphere - 5 min
-How to create a real time image classification application - 5 min
-Exercise - Create a real time image classification application - 5 min
-How to build a real time image classification application - 5 min
-Exercise - Build a real time image classification application - 5 min
-How to set up display output- 5 min
-Exercise - Set up display output - 5 min
-How to deploy a real time image classification application to Azure Sphere - 5 min
-Exercise - Deploy a real time image classification application to Azure Sphere - 5 min
-Knowledge check -5 min
-Summary - 3 min
+- Introduction - 5 min
+- Design a image classification model on Azure Sphere - 5 min
+- How to set up Azure Sphere - 5 min
+- Exercise - Set up Azure Sphere - 5 min
+- How to create a real time image classification application - 5 min
+- Exercise - Create a real time image classification application - 5 min
+- How to build a real time image classification application - 5 min
+- Exercise - Build a real time image classification application - 5 min
+- How to set up display output- 5 min
+- Exercise - Set up display output - 5 min
+- How to deploy a real time image classification application to Azure Sphere - 5 min
+- Exercise - Deploy a real time image classification application to Azure Sphere - 5 min
+- Knowledge check -5 min
+- Summary - 3 min
