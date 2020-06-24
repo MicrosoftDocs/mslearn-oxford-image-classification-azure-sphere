@@ -1,5 +1,7 @@
-numpy
-keras
-numpy
-matplotlib
-pillow
+You need to install the following libraries.
+
+- Numpy
+- Keras
+- Numpy
+- Matplotlib
+- Pillow
