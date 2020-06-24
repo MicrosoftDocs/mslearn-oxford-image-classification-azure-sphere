@@ -13,15 +13,18 @@ Describe how the components and services of an Azure Sphere work to deploy a pre
 "Produced in partnership with the University of Oxford – Ajit Jaokar Artificial Intelligence:Cloud and Edge Implementations course."
 
 ## Prerequisites
-Basic knowledge of Azure Sphere
-USB cable to connect Azure Sphere to the computer
-USB-to-serial adapter
-Mini cable to connect serial adapter to the computer
-Jumper wires to connect serial adapter to Azure Sphere
-Basic knowledge of using Visual Studio Code
-Visual Studio Code installed in your computer
-Git installed in your computer
-Ability to use Git/Github
+
+- Basic knowledge of Azure Sphere
+- USB cable to connect Azure Sphere to the computer
+- USB-to-serial adapter
+- Mini cable to connect serial adapter to the computer
+- Jumper wires to connect serial adapter to Azure Sphere
+- Basic knowledge of using Visual Studio Code
+- Visual Studio Code installed in your computer
+- Git installed in your computer
+- Ability to use Git/Github
+
+## Modules
 
 - Introduction - 5 min
 - Design a image classification model on Azure Sphere - 5 min
