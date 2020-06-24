@@ -1,5 +1,7 @@
-numpy
-keras
-numpy
-matplotlib
-pillow
+You need to the following libraries to run the notebook.
+
+- Numpy
+- Keras
+- Numpy
+- Matplotlib
+- Pillow
