@@ -1,6 +1,6 @@
 ## Microsoft Learn Module Image Classification using Azure Sphere
 
-[Microsoft Learn Link](https://docs.microsoft.com/en-gb/learn/modules/image-classification-azure-sphere)
+[Microsoft Learn Module](https://docs.microsoft.com/en-gb/learn/modules/image-classification-azure-sphere)
 
 ## This module cover the following 
 
