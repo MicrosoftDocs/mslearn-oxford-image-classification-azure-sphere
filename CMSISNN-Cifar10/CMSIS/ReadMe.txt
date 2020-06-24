@@ -1,4 +1,5 @@
-Clone the CMSIS directory from the ARM CMSIS_5 repo into this folder.
+CMSIS directory contains CMSIS components that are available.
+It is cloned from the ARM CMSIS_5 repo into this folder.
 
 E.G.
 CMSIS\
